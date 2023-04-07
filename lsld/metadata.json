@@ -1,0 +1,12 @@
+{
+  "name":"lsld",
+  "description":"",
+  "version":2,
+  "minzoom":8,
+  "maxzoom":15,
+  "center":"136.7103685,36.5585140,0",
+  "bounds":"136.6178708,36.4703753,136.8028661,36.6466526",
+  "type":"overlay",
+  "format":"pbf",
+  "json":"{\n  \"vector_layers\":[\n    {\n      \"id\":\"lsld\",\n      \"description\":\"\",\n      \"minzoom\":8,\n      \"maxzoom\":15,\n      \"fields\":{\n        \"attributes\":\"String\"\n      }\n    }\n  ],\n  \"tilestats\":{\n    \"layerCount\":1,\n    \"layers\":[\n      {\n        \"layer\":\"lsld\",\n        \"count\":1476,\n        \"geometry\":\"Polygon\",\n        \"attributeCount\":1,\n        \"attributes\":[\n          {\n            \"attribute\":\"attributes\",\n            \"count\":1000,\n            \"type\":\"string\",\n            \"values\":[\n            ]\n          }\n        ]\n      }\n    ]\n  }\n}"
+}
